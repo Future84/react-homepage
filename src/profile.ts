@@ -1,7 +1,7 @@
 export const profile: profile = {
     sitename: "未来",
-    names: ["湖州必吃榜 - 未来°", "这是未来呐", "这是未来呐"],
-    description: "地址：湖州市吴兴区苕溪东路2099号",
+    names: ["未来°", "这是未来呐", "这是未来呐"],
+    description: "未来是未知的旅程，愿每一步前行，都有爱陪伴左右。",
     image: "https://cravatar.com/avatar/23c51fce715e221bb371b4bd2437d8bc?s=512",
     socialLinks: {
         // github: "https://github.com/KumaKorin",
